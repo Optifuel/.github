@@ -15,7 +15,7 @@ The frontend is organized into several key sections to provide a fluid user expe
 * **Purpose:** Serves as the initial entry point to the application.
 * **Functionality:** Presents the application and offers users the choice to either register as a new user or log in with existing credentials. Designed for quick access to the system.
 
-    ![landing page](docs/landing.png)
+    ![landing page](./landing.png)
 
 ### 2. Login / Registration
 
@@ -25,8 +25,8 @@ The frontend is organized into several key sections to provide a fluid user expe
     * Provides a registration form for new users.
     * Ensures a secure and user-friendly credential management flow.
 
-    ![login page](docs/login.png)
-    ![register page](docs/register.png)
+    ![login page](./login.png)
+    ![register page](./register.png)
 
 ### 3. Dashboard
 
@@ -43,7 +43,7 @@ The frontend is organized into several key sections to provide a fluid user expe
         * **(Implied):** Logout functionality.
     * Displays trip statistics once a route is calculated.
 
-    ![dashbpard](docs/dashboard.png)
-    ![vehicle](docs/vehicles.png)
-    ![trip page](docs/trip.png)
+    ![dashbpard](./dashboard.png)
+    ![vehicle](./vehicles.png)
+    ![trip page](./trip.png)
 
